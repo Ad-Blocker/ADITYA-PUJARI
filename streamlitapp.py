@@ -9,7 +9,7 @@ st.title("Plotly and Streamlit Interactive Visualizations")
 
 # Author information
 st.markdown("<h5 style='color: teal;'>Created by:</h6>", unsafe_allow_html=True)
-st.markdown("<p style='color: white;'>1. ADITYA PUJARI </p>", unsafe_allow_html=True)
+st.markdown("<p style='color: purple;'>1. ADITYA PUJARI </p>", unsafe_allow_html=True)
 
 
 tips = sns.load_dataset('tips')  # Loading the dataset
